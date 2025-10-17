@@ -101,5 +101,5 @@ AskDocs/
 ## 👨‍💻 Author
 **Muhammad Huzaifa Ghani**
 *Machine Learning & AI Engineer*
-📧 your-email@example.com
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧 muhammadhuzaifaghani101@gmail.com
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-huzaifa-ghani-285a2a316/)
